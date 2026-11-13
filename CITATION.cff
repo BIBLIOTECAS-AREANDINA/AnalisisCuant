@@ -14,8 +14,8 @@ authors:
     alias: "REKOL08"
 version: 1.0.0
 date-released: 2026-07-22
-url: "https://rekol08.github.io/AnalisisCuant/"
-repository-code: "https://github.com/REKOL08/AnalisisCuant"
+url: "https://bibliotecas-areandina.github.io/AnalisisCuant/"
+repository-code: "https://github.com/BIBLIOTECAS-AREANDINA/AnalisisCuant"
 license: MIT
 keywords:
   - statistics

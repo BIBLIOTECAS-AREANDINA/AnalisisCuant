@@ -12,7 +12,7 @@ AnalisisCuant is a single-page web app (HTML + JS) for running quantitative stat
 
 ## 🚀 Quick demo
 
-> **[Try it live →](https://REKOL08.github.io/AnalisisCuant/)**
+> **[Try it live →](https://bibliotecas-areandina.github.io/AnalisisCuant/)**
 
 Or open `index.html` in any modern browser (Chrome, Firefox, Edge, Safari) and start using it immediately. No server or internet connection required.
 
@@ -188,3 +188,14 @@ Released under the [MIT License](LICENSE) — free to use, adapt, and redistribu
 ---
 
 *AnalisisCuant v1.0 · 100% local processing · ES/EN*
+
+
+## Centralización institucional — 13 de noviembre de 2026
+
+Repositorio transferido a [BIBLIOTECAS-AREANDINA](https://github.com/BIBLIOTECAS-AREANDINA), conservando su nombre y visibilidad pública. Las referencias Git anteriores se verificaron antes de actualizar esta documentación.
+
+HTML/JS; estadísticas y Chart.js. Revisar aproximaciones antes de uso académico formal.
+
+Dirección institucional de Pages: https://bibliotecas-areandina.github.io/AnalisisCuant/ . La disponibilidad HTTP se registra en la bitácora de centralización; no equivale a una prueba funcional completa. Los enlaces antiguos de Pages y QR impresos requieren actualización.
+
+[Inventario y pendientes](https://github.com/BIBLIOTECAS-AREANDINA/BIBLIONOVA/blob/main/docs/CENTRALIZACION_2026-11-13.md). No se modificaron despliegues de Apps Script, n8n ni Koha de producción.

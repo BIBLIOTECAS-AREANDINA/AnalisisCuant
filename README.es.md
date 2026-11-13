@@ -12,7 +12,7 @@ AnalisisCuant es una aplicación web de una sola página (HTML + JS) para realiz
 
 ## 🚀 Demo rápida
 
-> **[Pruébala en vivo →](https://REKOL08.github.io/AnalisisCuant/)**
+> **[Pruébala en vivo →](https://bibliotecas-areandina.github.io/AnalisisCuant/)**
 
 Abre el archivo `index.html` en cualquier navegador moderno (Chrome, Firefox, Edge, Safari) y empieza a usarlo de inmediato. No requiere servidor ni conexión a internet.
 
